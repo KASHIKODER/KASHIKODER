@@ -1,18 +1,126 @@
-# 💫 About Me:
-I'm currently working on Securing behaviour of Financial AI Agents<br>
+<div align="center">
 
+# नमस्ते, I'm Suyash Giri 🙏
+### `KASHIKODER` — From the city of light, building things that matter.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kashikoder03?igsh=NTVscDYyd3N3MXZo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suyash-giri-72b03738b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KashiKoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashikoder@gmail.com) 
+*Kashi (Varanasi) gave me the name. Code gives me the purpose.*
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KASHIKODER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KASHIKODER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHIKODER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-kashi-koder.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-giri-72b03738b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Suyash_Giri/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KASHIKODER)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KASHIKODER&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Who am I?
+
+```javascript
+const kashikoder = {
+  name: "Suyash Giri",
+  from: "Varanasi (Kashi), India 🕉️",
+  currently: "B.Tech CSE @ KIIT — 3rd Year",
+  mission: "Learn deeply → Build seriously → Teach openly",
+  openTo: ["Internships", "Full-time Placements", "Collaborations"],
+  funFact: "Every project name starts with 'Kashi' — it's not a habit, it's a brand 😄"
+}
+```
+
+---
+
+## 🚀 What I'm Building
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| 🏨 **Kashi Atithi** | Hotel booking & management system | Spring Boot, React, MySQL, AWS S3 | ✅ Live |
+| 📚 **Kashi Learning** | Industrial-scale E-Learning platform | Next.js, Node.js, MongoDB, Socket.io | ✅ Live |
+| 💬 **Samvaad** | Real-time full-stack chat app | React, Node.js, Socket.io, JWT | ✅ Live |
+| 🔍 **ProofLayer AI** | AI answers your team can verify | Next.js, PostgreSQL, pgvector, GPT-4o | 🚧 Building |
+
+---
+
+## 🛠️ My Tech Arsenal
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 📖 My Philosophy
+
+> *"Kashi is the city where light never dies.*
+> *I carry that same light into every line of code I write."*
+
+I don't just build projects — I build things I can **explain, teach, and stand behind.**
+
+My journey: **Learn it → Build it → Teach it → Repeat.**
+
+I record DSA and Web Development videos for peers.
+Next goal — integrate all my lessons into **Kashi Learning** and build a fully self-hosted learning ecosystem.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KASHIKODER&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHIKODER&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔨 Building **ProofLayer AI** — explainable AI research workspace
+- 📘 Deepening **Java + Spring Boot + System Design**
+- 🎯 Preparing for **campus placements 2027**
+- 📹 Recording **DSA & Web Dev** tutorials for peers
+
+---
+
+## 🤝 Open To
+
+✅ Internships — Summer / Winter  
+✅ Full-time Placements (2027)  
+✅ Open Source Collaborations  
+✅ Project Partnerships  
+
+---
+
+<div align="center">
+
+*"Every expert was once a beginner who refused to give up."*
+
+**Let's build something great together →** [kashikoder@gmail.com](mailto:kashikoder@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=KASHIKODER&color=brightgreen&style=flat-square)
+
+</div>
