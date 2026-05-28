@@ -19,7 +19,7 @@
 const kashikoder = {
   name: "Suyash Giri",
   from: "Varanasi (Kashi), India 🕉️",
-  currently: "B.Tech CSE @ KIIT — 3rd Year",
+  currently: "B.Tech CSE @ KIIT — Final Year",
   mission: "Learn deeply → Build seriously → Teach openly",
   openTo: ["Internships", "Full-time Placements", "Collaborations"],
   funFact: "Every project name starts with 'Kashi' — it's not a habit, it's a brand 😄"
