@@ -96,9 +96,6 @@ const kashikoder = {
 
 ## 📖 My Philosophy
 
-> 🕉️ *"Kashi mein diya kabhi nahi bujhta —*
-> *main apne code mein wahi roshni laata hoon."*
-
 I don't just build projects — I build things I can **explain, teach, and stand behind.**
 
 **Learn it → Build it → Teach it → Repeat.**
